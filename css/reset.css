@@ -1,0 +1,24 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #555555;
+  font-family: yugothic;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+p {
+  font-weight: medium;
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+ul {
+  list-style: none;
+  font-size: 18px;
+}
